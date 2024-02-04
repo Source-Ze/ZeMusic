@@ -3,7 +3,7 @@ from pyrogram import Client, filters
 from strings.filters import command
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery 
 from typing import Union
-from AlexaMusic import app
+from ZeMusic import app
 import re
 import sys
 
